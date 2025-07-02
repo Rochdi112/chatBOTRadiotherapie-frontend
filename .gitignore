@@ -1,0 +1,22 @@
+#
+ Python
+__pycache__/
+#*.pyod
+ Virtualenv
+.venv/
+
+#
+ Node
+node_modules/
+
+#
+ Django
+*.log
+*.pot
+*.pyc
+staticfiles/
+
+#
+ IDE
+.vscode/
+.idea/
